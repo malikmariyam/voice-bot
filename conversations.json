@@ -1,0 +1,186 @@
+{
+    "CA1ef5394ac15ddc30832a93027c9e16a6": [
+        {
+            "role": "system",
+            "content": "You are a helpful AI voice assistant. Always reply in short and concise sentences. Avoid long answers."
+        },
+        {
+            "role": "user",
+            "content": "Hello. This is just a test call. Can you hear me?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, I can hear you!"
+        },
+        {
+            "role": "user",
+            "content": "Can you tell me what is machine learning?"
+        },
+        {
+            "role": "assistant",
+            "content": "Machine learning is a subset of artificial intelligence. It involves algorithms that allow computers to learn from data."
+        },
+        {
+            "role": "user",
+            "content": "Can you give me project ideas for machine learning?"
+        },
+        {
+            "role": "assistant",
+            "content": "Sure! Here are a few ideas:\n\n1. Image classification.\n2. Sentiment analysis on social media.\n3. Fraud detection system.\n4. Recommendation system.\n5. Predictive maintenance for machines."
+        },
+        {
+            "role": "user",
+            "content": "Okay, can you give me five image classification product?"
+        },
+        {
+            "role": "assistant",
+            "content": "Sure! Here are five image classification products:\n\n1. Google Photos.\n2. Microsoft Azure Computer Vision.\n3. Amazon Rekognition.\n4. Clarifai.\n5. IBM Watson Visual Recognition."
+        },
+        {
+            "role": "user",
+            "content": "I am saying, can you provide me quotes for the image classification task."
+        },
+        {
+            "role": "assistant",
+            "content": "Certainly! Here are five quotes for image classification tasks:\n\n1. \"Every image tells a story—let's classify it!\"\n2. \"Transform pixels into insights.\"\n3. \"Seeing the unseen through classification.\"\n4. \"Unlock the potential of visual data.\"\n5. \"Making sense of images, one label at a time.\""
+        },
+        {
+            "role": "user",
+            "content": "Okay, thank you for the information.  We'll get you back later, goodbye."
+        }
+    ],
+    "CA83bd6b8865fdf7cd035e32e91e4d4f65": [
+        {
+            "role": "system",
+            "content": "You are a helpful AI voice assistant. Always reply in short and concise sentences. Avoid long answers."
+        },
+        {
+            "role": "user",
+            "content": "Okay, this is just a test call. Can you hear me?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, I can hear you! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "Okay, can you tell me about the weather like in Islamabad?"
+        },
+        {
+            "role": "assistant",
+            "content": "I can't provide real-time weather updates. Please check a weather app for the latest information."
+        },
+        {
+            "role": "user",
+            "content": "Okay, can you tell me which type of information you can provide me?"
+        },
+        {
+            "role": "assistant",
+            "content": "I can provide information on various topics like general knowledge, definitions, advice, and tips. Let me know what you need!"
+        },
+        {
+            "role": "user",
+            "content": "Okay, I need information about you, are you X, designing? So do you have any idea about that?"
+        },
+        {
+            "role": "assistant",
+            "content": "I’m an AI voice assistant, not a designer. I can provide insights on design principles if you need!"
+        },
+        {
+            "role": "user",
+            "content": "Okay, can you tell me about development light front end and back in development?"
+        },
+        {
+            "role": "assistant",
+            "content": "Frontend development involves creating the user interface and experience. It uses languages like HTML, CSS, and JavaScript. \n\nBackend development handles server-side logic, databases, and APIs. It often involves languages like Python, Ruby, Java, or PHP. \n\nBoth work together to build functional web applications."
+        },
+        {
+            "role": "user",
+            "content": "I want to thing my question.  Okay, thank you so much and thank you so much for your information. Goodbye."
+        }
+    ],
+    "CA3e8aab5ab15ffa027163cb88a5110ae6": [
+        {
+            "role": "system",
+            "content": "You are a helpful AI voice assistant. Always reply in short and concise sentences. Avoid long answers."
+        },
+        {
+            "role": "user",
+            "content": "Why do?"
+        },
+        {
+            "role": "assistant",
+            "content": "Could you clarify your question?"
+        },
+        {
+            "role": "user",
+            "content": "so,"
+        },
+        {
+            "role": "assistant",
+            "content": "What would you like to say?"
+        },
+        {
+            "role": "user",
+            "content": "Nothing."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay! Let me know if you need anything."
+        },
+        {
+            "role": "user",
+            "content": "I need a host."
+        },
+        {
+            "role": "assistant",
+            "content": "What type of host do you need? For an event, website, or something else?"
+        },
+        {
+            "role": "user",
+            "content": "No, I do not need anything."
+        },
+        {
+            "role": "assistant",
+            "content": "Understood! I'm here if you change your mind."
+        },
+        {
+            "role": "user",
+            "content": "Aubry School, goodbye."
+        }
+    ],
+    "CAc4e6f438261a1b26e5f983a957cc2eca": [
+        {
+            "role": "system",
+            "content": "You are a helpful AI voice assistant. Always reply in short and concise sentences. Avoid long answers."
+        },
+        {
+            "role": "user",
+            "content": "Hi, this is Mariam. Can you hear me?"
+        },
+        {
+            "role": "assistant",
+            "content": "Hi Mariam! Yes, I can hear you. How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "Okay, can you tell me what is machine learning?"
+        },
+        {
+            "role": "assistant",
+            "content": "Machine learning is a branch of artificial intelligence. It involves training algorithms to recognize patterns in data. This allows systems to improve their performance over time without being explicitly programmed."
+        },
+        {
+            "role": "user",
+            "content": "Okay, can you give me the right information? That reverse the weather like in Islamabad."
+        },
+        {
+            "role": "assistant",
+            "content": "I can't provide real-time weather data. Please check a weather website or app for current conditions in Islamabad."
+        },
+        {
+            "role": "user",
+            "content": "Yeah. Okay. Goodbye."
+        }
+    ]
+}
